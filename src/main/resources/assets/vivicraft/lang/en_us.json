@@ -1,0 +1,13 @@
+{
+  "itemGroup.vivicraft": "Example Mod Tab",
+  "block.vivicraft.example_block": "Example Block",
+  "item.vivicraft.example_item": "Example Item",
+
+  "vivicraft.configuration.title": "Vivicraft Configs",
+  "vivicraft.configuration.section.vivicraft.common.toml": "Vivicraft Configs",
+  "vivicraft.configuration.section.vivicraft.common.toml.title": "Vivicraft Configs",
+  "vivicraft.configuration.items": "Item List",
+  "vivicraft.configuration.logDirtBlock": "Log Dirt Block",
+  "vivicraft.configuration.magicNumberIntroduction": "Magic Number Text",
+  "vivicraft.configuration.magicNumber": "Magic Number"
+}
