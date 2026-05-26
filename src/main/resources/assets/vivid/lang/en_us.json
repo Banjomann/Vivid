@@ -1,0 +1,15 @@
+{
+  "itemGroup.vivid": "Vivid",
+  "item.vivid.vivid_dust": "Vivid Dust",
+  "block.vivid.vivid_dust_block": "Vivid Dust Block",
+  "block.vivid.vivid_ore": "Vivid Ore",
+  "block.vivid.vivid_deepslate_ore": "Vivid Deepslate Ore",
+
+  "vivid.configuration.title": "Vivid Configs",
+  "vivid.configuration.section.vivid.common.toml": "Vivid Configs",
+  "vivid.configuration.section.vivid.common.toml.title": "Vivid Configs",
+  "vivid.configuration.items": "Item List",
+  "vivid.configuration.logDirtBlock": "Log Dirt Block",
+  "vivid.configuration.magicNumberIntroduction": "Magic Number Text",
+  "vivid.configuration.magicNumber": "Magic Number"
+}

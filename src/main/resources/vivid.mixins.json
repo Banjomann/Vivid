@@ -1,6 +1,6 @@
 {
   "required": true,
-  "package": "vivicraft.common.mixin",
+  "package": "vivid.common.mixin",
   "compatibilityLevel": "JAVA_21",
   "mixins": [],
   "injectors": {
