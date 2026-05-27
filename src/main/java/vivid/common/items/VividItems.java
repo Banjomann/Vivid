@@ -3,8 +3,6 @@ package vivid.common.items;
 import java.util.List;
 import java.util.stream.Collectors;
 
-import net.minecraft.core.registries.Registries;
-import net.minecraft.resources.ResourceKey;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.Item;
 import net.neoforged.neoforge.registries.DeferredBlock;
@@ -26,7 +24,7 @@ public class VividItems {
 
     public static final DeferredHolder<Item, DustItem> VIVID_DUST_ITEM = ITEMS.register(
         Constants.VIVID_DUST_ITEM_NAME,
-        key -> new VividDustItem(new Item.Properties().setId(ResourceKey.create(Registries.ITEM, key)))
+        key -> new VividDustItem(new Item.Properties())
     );
 
     public static final DeferredItem<BlockItem> VIVID_DUST_BLOCK_ITEM = registerBlockItem(VividBlocks.VIVID_DUST_BLOCK);

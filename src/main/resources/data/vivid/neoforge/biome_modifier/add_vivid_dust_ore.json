@@ -1,0 +1,9 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": [
+    "vivid:ore_vivid_dust",
+    "vivid:ore_vivid_dust_deepslate"
+  ],
+  "step": "underground_ores"
+}
