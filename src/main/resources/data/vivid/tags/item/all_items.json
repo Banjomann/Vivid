@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "vivid:vivid_dust",
+    "vivid:vivid_dust_block",
+    "vivid:vivid_ore",
+    "vivid:vivid_deepslate_ore"
+  ]
+}

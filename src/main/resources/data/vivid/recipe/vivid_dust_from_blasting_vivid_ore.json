@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:blasting",
+  "category": "blocks",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "group": "vivid_dust",
+  "ingredient": {
+    "item": "vivid:vivid_ore"
+  },
+  "result": {
+    "count": 2,
+    "id": "vivid:vivid_dust"
+  }
+}
