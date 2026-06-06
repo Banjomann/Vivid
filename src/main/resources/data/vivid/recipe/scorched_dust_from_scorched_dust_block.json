@@ -3,11 +3,11 @@
   "category": "misc",
   "ingredients": [
     {
-      "item": "vivid:vivid_dust_block"
+      "item": "vivid:scorched_dust_block"
     }
   ],
   "result": {
     "count": 9,
-    "id": "vivid:vivid_dust"
+    "id": "vivid:scorched_dust"
   }
 }

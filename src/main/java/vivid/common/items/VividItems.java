@@ -26,10 +26,16 @@ public class VividItems {
         Constants.VIVID_DUST_ITEM_NAME,
         key -> new VividDustItem(new Item.Properties())
     );
+    public static final DeferredHolder<Item, DustItem> SCORCHED_DUST_ITEM = ITEMS.register(
+        Constants.SCORCHED_DUST_ITEM_NAME,
+        key -> new DustItem(new Item.Properties())
+    );
 
     public static final DeferredItem<BlockItem> VIVID_DUST_BLOCK_ITEM = registerBlockItem(VividBlocks.VIVID_DUST_BLOCK);
+    public static final DeferredItem<BlockItem> SCORCHED_DUST_BLOCK_ITEM = registerBlockItem(VividBlocks.SCORCHED_DUST_BLOCK);
     public static final DeferredItem<BlockItem> VIVID_ORE_BLOCK_ITEM = registerBlockItem(VividBlocks.VIVID_ORE_BLOCK);
     public static final DeferredItem<BlockItem> VIVID_DEEPSLATE_ORE_BLOCK_ITEM = registerBlockItem(VividBlocks.VIVID_DEEPSLATE_ORE_BLOCK);
+    public static final DeferredItem<BlockItem> SCORCHED_ORE_BLOCK_ITEM = registerBlockItem(VividBlocks.SCORCHED_ORE_BLOCK);
 
     private static DeferredItem<BlockItem> registerBlockItem(DeferredBlock<?> block) {
         return ITEMS.registerSimpleBlockItem(block.getId().getPath(), block);
