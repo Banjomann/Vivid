@@ -40,6 +40,9 @@ public class Vivid {
                 output.accept(VividItems.SCORCHED_DUST_ITEM.get());
                 output.accept(VividBlocks.SCORCHED_DUST_BLOCK.get());
                 output.accept(VividBlocks.SCORCHED_ORE_BLOCK.get());
+                output.accept(VividItems.UMBRAL_DUST_ITEM.get());
+                output.accept(VividBlocks.UMBRAL_DUST_BLOCK.get());
+                output.accept(VividBlocks.UMBRAL_ORE_BLOCK.get());
             }).build());
 
     // The constructor for the mod class is the first code that is run when your mod is loaded.

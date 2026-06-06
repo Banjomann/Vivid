@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "vivid:umbral_dust_block"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "vivid:blocks/umbral_dust_block"
+}

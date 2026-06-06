@@ -27,6 +27,10 @@ public class VividBlocks {
         Constants.SCORCHED_DUST_BLOCK_NAME,
         key -> new VividDustBlock(key)
     );
+    public static final DeferredBlock<Block> UMBRAL_DUST_BLOCK = BLOCKS.register(
+        Constants.UMBRAL_DUST_BLOCK_NAME,
+        key -> new VividDustBlock(key)
+    );
     public static final DeferredBlock<OreBlock> VIVID_ORE_BLOCK = BLOCKS.register(
         Constants.VIVID_ORE_BLOCK_NAME,
         key -> new VividOreBlock(key)
@@ -38,5 +42,9 @@ public class VividBlocks {
     public static final DeferredBlock<OreBlock> SCORCHED_ORE_BLOCK = BLOCKS.register(
         Constants.SCORCHED_ORE_BLOCK_NAME,
         key -> new OreBlock(key, 3.0F, SoundType.NETHERRACK)
+    );
+    public static final DeferredBlock<OreBlock> UMBRAL_ORE_BLOCK = BLOCKS.register(
+        Constants.UMBRAL_ORE_BLOCK_NAME,
+        key -> new OreBlock(key, 3.0F, SoundType.STONE)
     );
 }

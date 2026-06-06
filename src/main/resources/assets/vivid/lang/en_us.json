@@ -7,6 +7,9 @@
   "item.vivid.scorched_dust": "Scorched Dust",
   "block.vivid.scorched_dust_block": "Scorched Dust Block",
   "block.vivid.scorched_ore": "Scorched Ore",
+  "item.vivid.umbral_dust": "Umbral Dust",
+  "block.vivid.umbral_dust_block": "Umbral Dust Block",
+  "block.vivid.umbral_ore": "Umbral Ore",
 
   "vivid.configuration.title": "Vivid Configs",
   "vivid.configuration.section.vivid.common.toml": "Vivid Configs",

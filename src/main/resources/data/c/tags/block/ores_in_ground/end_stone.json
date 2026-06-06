@@ -1,8 +1,6 @@
 {
   "replace": false,
   "values": [
-    "vivid:vivid_ore",
-    "vivid:vivid_deepslate_ore",
     "vivid:umbral_ore"
   ]
 }
