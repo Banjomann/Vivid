@@ -8,11 +8,11 @@
   ],
   "key": {
     "#": {
-      "item": "vivid:vivid_dust"
+      "item": "vivid:scorched_dust"
     }
   },
   "result": {
     "count": 1,
-    "id": "vivid:vivid_dust_block"
+    "id": "vivid:scorched_dust_block"
   }
 }

@@ -4,6 +4,9 @@
     "vivid:vivid_dust",
     "vivid:vivid_dust_block",
     "vivid:vivid_ore",
-    "vivid:vivid_deepslate_ore"
+    "vivid:vivid_deepslate_ore",
+    "vivid:scorched_dust",
+    "vivid:scorched_dust_block",
+    "vivid:scorched_ore"
   ]
 }

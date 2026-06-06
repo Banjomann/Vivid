@@ -4,6 +4,9 @@
   "block.vivid.vivid_dust_block": "Vivid Dust Block",
   "block.vivid.vivid_ore": "Vivid Ore",
   "block.vivid.vivid_deepslate_ore": "Vivid Deepslate Ore",
+  "item.vivid.scorched_dust": "Scorched Dust",
+  "block.vivid.scorched_dust_block": "Scorched Dust Block",
+  "block.vivid.scorched_ore": "Scorched Ore",
 
   "vivid.configuration.title": "Vivid Configs",
   "vivid.configuration.section.vivid.common.toml": "Vivid Configs",

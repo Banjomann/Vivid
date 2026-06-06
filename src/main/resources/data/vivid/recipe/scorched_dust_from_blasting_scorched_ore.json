@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 1.0,
+  "group": "scorched_dust",
+  "ingredient": {
+    "item": "vivid:scorched_ore"
+  },
+  "result": {
+    "id": "vivid:scorched_dust"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:is_nether",
+  "features": [
+    "vivid:ore_scorched"
+  ],
+  "step": "underground_ores"
+}

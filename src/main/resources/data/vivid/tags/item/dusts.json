@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "vivid:vivid_dust"
+    "vivid:vivid_dust",
+    "vivid:scorched_dust"
   ]
 }
