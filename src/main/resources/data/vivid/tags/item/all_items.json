@@ -7,6 +7,9 @@
     "vivid:vivid_deepslate_ore",
     "vivid:scorched_dust",
     "vivid:scorched_dust_block",
-    "vivid:scorched_ore"
+    "vivid:scorched_ore",
+    "vivid:umbral_dust",
+    "vivid:umbral_dust_block",
+    "vivid:umbral_ore"
   ]
 }

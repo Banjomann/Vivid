@@ -2,6 +2,7 @@
   "replace": false,
   "values": [
     "vivid:vivid_dust_block",
-    "vivid:scorched_dust_block"
+    "vivid:scorched_dust_block",
+    "vivid:umbral_dust_block"
   ]
 }

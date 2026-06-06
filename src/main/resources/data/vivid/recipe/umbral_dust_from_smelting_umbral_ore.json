@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "group": "umbral_dust",
+  "ingredient": {
+    "item": "vivid:umbral_ore"
+  },
+  "result": {
+    "id": "vivid:umbral_dust"
+  }
+}
