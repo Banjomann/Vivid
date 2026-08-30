@@ -1,6 +1,6 @@
 {
   "type": "neoforge:add_features",
-  "biomes": "#minecraft:is_end",
+  "biomes": "#vivid:outer_end",
   "features": [
     "vivid:ore_umbral"
   ],
